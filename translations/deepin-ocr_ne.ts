@@ -4,57 +4,57 @@
 <context>
     <name>MainWidget</name>
     <message>
-        <location filename="../src/mainwidget.cpp" line="115"/>
+        <location filename="../src/mainwidget.cpp" line="118"/>
         <source>No text recognized</source>
-        <translation>कुनै पनि पाठ चिनियो</translation>
+        <translation>कुनै टेक्स्ट चिन्हित नभएको</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="166"/>
+        <location filename="../src/mainwidget.cpp" line="169"/>
         <source>Recognize language</source>
-        <translation>भाषा चिनियो</translation>
+        <translation>भाषा चिन्हित गर्नुहोस्</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="169"/>
+        <location filename="../src/mainwidget.cpp" line="172"/>
         <source>Simplified Chinese</source>
-        <translation>सरलीकृत चीनी</translation>
+        <translation>सरलीकृत चिनी</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="169"/>
+        <location filename="../src/mainwidget.cpp" line="172"/>
         <source>English</source>
         <translation>अंग्रेजी</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="169"/>
+        <location filename="../src/mainwidget.cpp" line="172"/>
         <source>Traditional Chinese</source>
-        <translation>पारंपरिक चीनी</translation>
+        <translation>पारंपरिक चिनी</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="204"/>
+        <location filename="../src/mainwidget.cpp" line="207"/>
         <source>Copy text</source>
-        <translation>पाठ काट्नु</translation>
+        <translation>टेक्स्ट काट्नुहोस्</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="210"/>
+        <location filename="../src/mainwidget.cpp" line="213"/>
         <source>Save as TXT</source>
-        <translation>TXT मा सेभ गर्नु</translation>
+        <translation>TXT मा सेभ गर्नुहोस्</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="236"/>
+        <location filename="../src/mainwidget.cpp" line="239"/>
         <source>Undo (Ctrl+Z)</source>
-        <translation>पुन: गर्नु (Ctrl+Z)</translation>
+        <translation>बर्बाद गर्नुहोस् (Ctrl+Z)</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="247"/>
+        <location filename="../src/mainwidget.cpp" line="250"/>
         <source>Redo (Ctrl+Shift+Z)</source>
-        <translation>पुन: गर्नु (Ctrl+Shift+Z)</translation>
+        <translation>पुनर्गर्नुहोस् (Ctrl+Shift+Z)</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="294"/>
+        <location filename="../src/mainwidget.cpp" line="320"/>
         <source>Recognizing</source>
-        <translation>चिनिरहेको</translation>
+        <translation>चिन्हित गर्दै</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="563"/>
+        <location filename="../src/mainwidget.cpp" line="589"/>
         <source>Copied</source>
         <translation>काटियो</translation>
     </message>
@@ -62,40 +62,40 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../src/main.cpp" line="75"/>
+        <location filename="../src/main.cpp" line="43"/>
         <source>OCR Tool</source>
-        <translation>OCR टोल</translation>
+        <translation>OCR टुल</translation>
     </message>
 </context>
 <context>
     <name>ResultTextView</name>
     <message>
-        <location filename="../src/resulttextview.cpp" line="22"/>
-        <source>Copy</source>
-        <translation>काट्नु</translation>
-    </message>
-    <message>
-        <location filename="../src/resulttextview.cpp" line="24"/>
-        <source>Cut</source>
-        <translation>काट्नु</translation>
-    </message>
-    <message>
         <location filename="../src/resulttextview.cpp" line="27"/>
-        <source>Select All</source>
-        <translation>सबै चयन गर्नु</translation>
+        <source>Copy</source>
+        <translation>काट्नुहोस्</translation>
     </message>
     <message>
         <location filename="../src/resulttextview.cpp" line="29"/>
+        <source>Cut</source>
+        <translation>काट्नुहोस्</translation>
+    </message>
+    <message>
+        <location filename="../src/resulttextview.cpp" line="32"/>
+        <source>Select All</source>
+        <translation>सबै चयन गर्नुहोस्</translation>
+    </message>
+    <message>
+        <location filename="../src/resulttextview.cpp" line="34"/>
         <source>Paste</source>
-        <translation>पेस्ट गर्नु</translation>
+        <translation>पेस्ट गर्नुहोस्</translation>
     </message>
 </context>
 <context>
     <name>Widget</name>
     <message>
-        <location filename="../src/mainwidget.cpp" line="283"/>
+        <location filename="../src/mainwidget.cpp" line="309"/>
         <source>Tips: The clearer the image is, the more accurate the text is</source>
-        <translation>सुझाव: छवि ज्यादा स्पष्ट हुन त्यो पाठ ज्यादा सटीक हुन्छ</translation>
+        <translation>सूचना: छवि शुद्ध छ, टेक्स्ट बढी ठीक छ</translation>
     </message>
 </context>
 </TS>

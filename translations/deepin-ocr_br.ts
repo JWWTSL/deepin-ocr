@@ -5,80 +5,80 @@
     <name>MainWidget</name>
     <message>
         <source>Recognizing</source>
-        <translation>الإدراك</translation>
+        <translation>A reconhecer</translation>
     </message>
     <message>
         <source>Copied</source>
-        <translation>تم نسخه</translation>
+        <translation>Copiado</translation>
     </message>
     <message>
         <source>No text recognized</source>
-        <translation>لا يوجد نص تم إدراكه</translation>
+        <translation>Nenhuma texto foi reconhecido</translation>
     </message>
     <message>
         <source>Copy text</source>
-        <translation>نسخ النص</translation>
+        <translation>Copiar texto</translation>
     </message>
     <message>
         <source>Save as TXT</source>
-        <translation>الحفظ ك TXT</translation>
+        <translation>Salvar como TXT</translation>
     </message>
     <message>
         <source>Recognize language</source>
-        <translation>تعرف على اللغة</translation>
+        <translation>Reconhecer linguagem</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
-        <translation>الصينية البسيطة</translation>
+        <translation>Chinês simplificado</translation>
     </message>
     <message>
         <source>English</source>
-        <translation>الإنجليزية</translation>
+        <translation>Inglês</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
-        <translation>الصينية التقليدية</translation>
+        <translation>Chinês tradicional</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation>الاستعادة (Ctrl+Z)</translation>
+        <translation>Desfacer (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Shift+Z)</source>
-        <translation>إعادة الاستعادة (Ctrl+Shift+Z)</translation>
+        <translation>Refacer (Ctrl+Shift+Z)</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>OCR Tool</source>
-        <translation>أداة التعرف على النص</translation>
+        <translation>Ferramenta OCR</translation>
     </message>
 </context>
 <context>
     <name>ResultTextView</name>
     <message>
         <source>Copy</source>
-        <translation>نسخ</translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>قص</translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>لصق</translation>
+        <translation>Colar</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation>اختر كل شيء</translation>
+        <translation>Selecionar tudo</translation>
     </message>
 </context>
 <context>
     <name>Widget</name>
     <message>
         <source>Tips: The clearer the image is, the more accurate the text is</source>
-        <translation>نصائح: كلما كانت الصورة أوضح، زادت دقة النص</translation>
+        <translation>Dicas: Quanto mais clara a imagem, mais precisa será o texto</translation>
     </message>
 </context>
 </TS>

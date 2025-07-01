@@ -1,59 +1,91 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="hy">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="hy">
 <context>
     <name>MainWidget</name>
     <message>
-        <location filename="../src/mainwidget.cpp" line="166"/>
+        <location filename="../src/mainwidget.cpp" line="118"/>
         <source>No text recognized</source>
         <translation>Տեքստ չի ճանաչվել</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="214"/>
+        <location filename="../src/mainwidget.cpp" line="169"/>
+        <source>Recognize language</source>
+        <translation>Լեզուն ճանաչել</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="172"/>
+        <source>Simplified Chinese</source>
+        <translation>Բարենպաստ Չինարեն</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="172"/>
+        <source>English</source>
+        <translation>Անգլերեն</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="172"/>
+        <source>Traditional Chinese</source>
+        <translation>Հավասարակշիռ Չինարեն</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="207"/>
         <source>Copy text</source>
-        <translation>Կապակցել տեքստը</translation>
+        <translation>Տեքստը անցնել</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="221"/>
+        <location filename="../src/mainwidget.cpp" line="213"/>
         <source>Save as TXT</source>
-        <translation>Պահպանել TXT որպես</translation>
+        <translation>TXT որպես պահպանել</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="273"/>
+        <location filename="../src/mainwidget.cpp" line="239"/>
+        <source>Undo (Ctrl+Z)</source>
+        <translation>Վերացնել (Ctrl+Z)</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="250"/>
+        <source>Redo (Ctrl+Shift+Z)</source>
+        <translation>Վերականգնել (Ctrl+Shift+Z)</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="320"/>
         <source>Recognizing</source>
-        <translation>ճանաչում է</translation>
+        <translation>Ճանաչում է</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="514"/>
+        <location filename="../src/mainwidget.cpp" line="589"/>
         <source>Copied</source>
-        <translation>Կապակցվել է</translation>
+        <translation>Անցել է</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../src/main.cpp" line="56"/>
+        <location filename="../src/main.cpp" line="43"/>
         <source>OCR Tool</source>
-        <translation>OCR գործիքը</translation>
+        <translation>OCR արագացուցիչը</translation>
     </message>
 </context>
 <context>
     <name>ResultTextView</name>
     <message>
-        <location filename="../src/resulttextview.cpp" line="15"/>
+        <location filename="../src/resulttextview.cpp" line="27"/>
         <source>Copy</source>
-        <translation>Կապակցել</translation>
+        <translation>Անցնել</translation>
     </message>
     <message>
-        <location filename="../src/resulttextview.cpp" line="17"/>
+        <location filename="../src/resulttextview.cpp" line="29"/>
         <source>Cut</source>
         <translation>Կտրել</translation>
     </message>
     <message>
-        <location filename="../src/resulttextview.cpp" line="20"/>
+        <location filename="../src/resulttextview.cpp" line="32"/>
         <source>Select All</source>
-        <translation>Ընտրել բոլորը</translation>
+        <translation>Ընտրել ամբողջը</translation>
     </message>
     <message>
-        <location filename="../src/resulttextview.cpp" line="22"/>
+        <location filename="../src/resulttextview.cpp" line="34"/>
         <source>Paste</source>
         <translation>Փոխանցել</translation>
     </message>
@@ -61,9 +93,9 @@
 <context>
     <name>Widget</name>
     <message>
-        <location filename="../src/mainwidget.cpp" line="262"/>
+        <location filename="../src/mainwidget.cpp" line="309"/>
         <source>Tips: The clearer the image is, the more accurate the text is</source>
-        <translation>Խորանալ: Իմագինը ավելի բացառիկ է, ավելի ճշգրիտ է տեքստը</translation>
+        <translation>Խորացում: Նկարի ավելի բացառապես արտահայտված լինելը հանգեցնում է տեքստի ավելի ճշգրիտ արտահայտման</translation>
     </message>
 </context>
 </TS>

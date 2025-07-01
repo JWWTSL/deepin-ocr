@@ -1,69 +1,101 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ast">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="ast">
 <context>
     <name>MainWidget</name>
     <message>
-        <location filename="../src/mainwidget.cpp" line="166"/>
+        <location filename="../src/mainwidget.cpp" line="118"/>
         <source>No text recognized</source>
-        <translation>Nun ye un textu reconocíu</translation>
+        <translation>No text recognized</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="214"/>
+        <location filename="../src/mainwidget.cpp" line="169"/>
+        <source>Recognize language</source>
+        <translation>Recognize language</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="172"/>
+        <source>Simplified Chinese</source>
+        <translation>Simplified Chinese</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="172"/>
+        <source>English</source>
+        <translation>English</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="172"/>
+        <source>Traditional Chinese</source>
+        <translation>Traditional Chinese</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="207"/>
         <source>Copy text</source>
-        <translation>Copiar textu</translation>
+        <translation>Copy text</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="221"/>
+        <location filename="../src/mainwidget.cpp" line="213"/>
         <source>Save as TXT</source>
-        <translation>Gardar como TXT</translation>
+        <translation>Save as TXT</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="273"/>
+        <location filename="../src/mainwidget.cpp" line="239"/>
+        <source>Undo (Ctrl+Z)</source>
+        <translation>Undo (Ctrl+Z)</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="250"/>
+        <source>Redo (Ctrl+Shift+Z)</source>
+        <translation>Redo (Ctrl+Shift+Z)</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="320"/>
         <source>Recognizing</source>
-        <translation>Reconocíu</translation>
+        <translation>Recognizing</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="514"/>
+        <location filename="../src/mainwidget.cpp" line="589"/>
         <source>Copied</source>
-        <translation>Copiáu</translation>
+        <translation>Copied</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../src/main.cpp" line="56"/>
+        <location filename="../src/main.cpp" line="43"/>
         <source>OCR Tool</source>
-        <translation>Ferramenta OCR</translation>
+        <translation>OCR Tool</translation>
     </message>
 </context>
 <context>
     <name>ResultTextView</name>
     <message>
-        <location filename="../src/resulttextview.cpp" line="15"/>
+        <location filename="../src/resulttextview.cpp" line="27"/>
         <source>Copy</source>
-        <translation>Copiar</translation>
+        <translation>Copy</translation>
     </message>
     <message>
-        <location filename="../src/resulttextview.cpp" line="17"/>
+        <location filename="../src/resulttextview.cpp" line="29"/>
         <source>Cut</source>
-        <translation>Cortar</translation>
+        <translation>Cut</translation>
     </message>
     <message>
-        <location filename="../src/resulttextview.cpp" line="20"/>
+        <location filename="../src/resulttextview.cpp" line="32"/>
         <source>Select All</source>
-        <translation>Selecciona totu</translation>
+        <translation>Select All</translation>
     </message>
     <message>
-        <location filename="../src/resulttextview.cpp" line="22"/>
+        <location filename="../src/resulttextview.cpp" line="34"/>
         <source>Paste</source>
-        <translation>Pegar</translation>
+        <translation>Paste</translation>
     </message>
 </context>
 <context>
     <name>Widget</name>
     <message>
-        <location filename="../src/mainwidget.cpp" line="262"/>
+        <location filename="../src/mainwidget.cpp" line="309"/>
         <source>Tips: The clearer the image is, the more accurate the text is</source>
-        <translation>Consejos: Cuanto más claru sea l&apos;imatxu, más precísu será l&apos;textu</translation>
+        <translation>Sugestions: Mai clar sea la imatge, mai preciso serà lo testu</translation>
     </message>
 </context>
 </TS>

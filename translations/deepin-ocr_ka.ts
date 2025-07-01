@@ -4,57 +4,57 @@
 <context>
     <name>MainWidget</name>
     <message>
-        <location filename="../src/mainwidget.cpp" line="115"/>
+        <location filename="../src/mainwidget.cpp" line="118"/>
         <source>No text recognized</source>
         <translation>ტექსტი არ არის განხილული</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="166"/>
+        <location filename="../src/mainwidget.cpp" line="169"/>
         <source>Recognize language</source>
-        <translation>ენის განსაზღვრვა</translation>
+        <translation>ენას გზჯხილო</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="169"/>
+        <location filename="../src/mainwidget.cpp" line="172"/>
         <source>Simplified Chinese</source>
-        <translation>მარტივი ჩინური</translation>
+        <translation>ჩინური სიმპლიფიცირებული</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="169"/>
+        <location filename="../src/mainwidget.cpp" line="172"/>
         <source>English</source>
         <translation>ინგლისური</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="169"/>
+        <location filename="../src/mainwidget.cpp" line="172"/>
         <source>Traditional Chinese</source>
-        <translation>კლასიკური ჩინური</translation>
+        <translation>ჩინური ტრადიციული</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="204"/>
+        <location filename="../src/mainwidget.cpp" line="207"/>
         <source>Copy text</source>
         <translation>ტექსტის კოპირება</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="210"/>
+        <location filename="../src/mainwidget.cpp" line="213"/>
         <source>Save as TXT</source>
-        <translation>შენახვა TXT სახით</translation>
+        <translation>შენახვა TXT-ში</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="236"/>
+        <location filename="../src/mainwidget.cpp" line="239"/>
         <source>Undo (Ctrl+Z)</source>
-        <translation>დაბრუნება (Ctrl+Z)</translation>
+        <translation>დაუმტკიცება (Ctrl+Z)</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="247"/>
+        <location filename="../src/mainwidget.cpp" line="250"/>
         <source>Redo (Ctrl+Shift+Z)</source>
-        <translation>განმეორება (Ctrl+Shift+Z)</translation>
+        <translation>გადამტკიცება (Ctrl+Shift+Z)</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="294"/>
+        <location filename="../src/mainwidget.cpp" line="320"/>
         <source>Recognizing</source>
-        <translation>განსაზღვრა</translation>
+        <translation>გზჯხილობაში</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="563"/>
+        <location filename="../src/mainwidget.cpp" line="589"/>
         <source>Copied</source>
         <translation>კოპირდა</translation>
     </message>
@@ -62,7 +62,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../src/main.cpp" line="75"/>
+        <location filename="../src/main.cpp" line="43"/>
         <source>OCR Tool</source>
         <translation>OCR ინსტრუმენტი</translation>
     </message>
@@ -70,32 +70,32 @@
 <context>
     <name>ResultTextView</name>
     <message>
-        <location filename="../src/resulttextview.cpp" line="22"/>
+        <location filename="../src/resulttextview.cpp" line="27"/>
         <source>Copy</source>
         <translation>კოპირება</translation>
     </message>
     <message>
-        <location filename="../src/resulttextview.cpp" line="24"/>
+        <location filename="../src/resulttextview.cpp" line="29"/>
         <source>Cut</source>
-        <translation>გადაკეტვა</translation>
+        <translation>გადაკოპირება</translation>
     </message>
     <message>
-        <location filename="../src/resulttextview.cpp" line="27"/>
+        <location filename="../src/resulttextview.cpp" line="32"/>
         <source>Select All</source>
         <translation>ყველას არჩევა</translation>
     </message>
     <message>
-        <location filename="../src/resulttextview.cpp" line="29"/>
+        <location filename="../src/resulttextview.cpp" line="34"/>
         <source>Paste</source>
-        <translation>ჩასმა</translation>
+        <translation>ჩასვება</translation>
     </message>
 </context>
 <context>
     <name>Widget</name>
     <message>
-        <location filename="../src/mainwidget.cpp" line="283"/>
+        <location filename="../src/mainwidget.cpp" line="309"/>
         <source>Tips: The clearer the image is, the more accurate the text is</source>
-        <translation>გაფიქსირების შესახებ: სურათის უფრო გამარტივებული მასალა უფრო სწორი ტექსტს იძლევა</translation>
+        <translation>რჩევა: სუფთა უფრო სასურველი არის, უფრო სწორი ტექსტი არის</translation>
     </message>
 </context>
 </TS>

@@ -5,80 +5,80 @@
     <name>MainWidget</name>
     <message>
         <source>Recognizing</source>
-        <translation type="unfinished"></translation>
+        <translation>Recognizing</translation>
     </message>
     <message>
         <source>Copied</source>
-        <translation type="unfinished"></translation>
+        <translation>Copied</translation>
     </message>
     <message>
         <source>No text recognized</source>
-        <translation type="unfinished"></translation>
+        <translation>No text recognized</translation>
     </message>
     <message>
         <source>Copy text</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy text</translation>
     </message>
     <message>
         <source>Save as TXT</source>
-        <translation type="unfinished"></translation>
+        <translation>Save as TXT</translation>
     </message>
     <message>
         <source>Recognize language</source>
-        <translation type="unfinished"></translation>
+        <translation>Recognize language</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Simplified Chinese</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>English</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Traditional Chinese</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation type="unfinished"></translation>
+        <translation>Undo (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Shift+Z)</source>
-        <translation type="unfinished"></translation>
+        <translation>Redo (Ctrl+Shift+Z)</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>OCR Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR Tool</translation>
     </message>
 </context>
 <context>
     <name>ResultTextView</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Cut</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Paste</translation>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"></translation>
+        <translation>Select All</translation>
     </message>
 </context>
 <context>
     <name>Widget</name>
     <message>
         <source>Tips: The clearer the image is, the more accurate the text is</source>
-        <translation type="unfinished"></translation>
+        <translation>Tips: The clearer the image is, the more accurate the text is</translation>
     </message>
 </context>
 </TS>

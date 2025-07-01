@@ -1,36 +1,68 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="ur">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="ur">
 <context>
     <name>MainWidget</name>
     <message>
-        <location filename="../src/mainwidget.cpp" line="166"/>
+        <location filename="../src/mainwidget.cpp" line="118"/>
         <source>No text recognized</source>
-        <translation>کوئی ٹیکسٹ شناخت نہ ہو سکا</translation>
+        <translation>کوئی نظریہ نہیں ہے</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="214"/>
+        <location filename="../src/mainwidget.cpp" line="169"/>
+        <source>Recognize language</source>
+        <translation>زبان شناخت کریں</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="172"/>
+        <source>Simplified Chinese</source>
+        <translation>آسانی چینی</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="172"/>
+        <source>English</source>
+        <translation>انگریزی</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="172"/>
+        <source>Traditional Chinese</source>
+        <translation>کلاسيک چینی</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="207"/>
         <source>Copy text</source>
-        <translation>ٹیکسٹ کا کپی کریں</translation>
+        <translation>ٹیکسٹ کاپی کریں</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="221"/>
+        <location filename="../src/mainwidget.cpp" line="213"/>
         <source>Save as TXT</source>
-        <translation>TXT کے طور پر سیو کریں</translation>
+        <translation>TXT کے طور پر بچاں</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="273"/>
+        <location filename="../src/mainwidget.cpp" line="239"/>
+        <source>Undo (Ctrl+Z)</source>
+        <translation>undo (Ctrl+Z)</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="250"/>
+        <source>Redo (Ctrl+Shift+Z)</source>
+        <translation>redo (Ctrl+Shift+Z)</translation>
+    </message>
+    <message>
+        <location filename="../src/mainwidget.cpp" line="320"/>
         <source>Recognizing</source>
         <translation>شناخت کر رہے ہیں</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="514"/>
+        <location filename="../src/mainwidget.cpp" line="589"/>
         <source>Copied</source>
-        <translation>کپی کر دیا گیا</translation>
+        <translation>کاپی کر دیا گیا</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../src/main.cpp" line="56"/>
+        <location filename="../src/main.cpp" line="43"/>
         <source>OCR Tool</source>
         <translation>OCR ٹول</translation>
     </message>
@@ -38,32 +70,32 @@
 <context>
     <name>ResultTextView</name>
     <message>
-        <location filename="../src/resulttextview.cpp" line="15"/>
+        <location filename="../src/resulttextview.cpp" line="27"/>
         <source>Copy</source>
-        <translation>کپی</translation>
+        <translation>کاپی کریں</translation>
     </message>
     <message>
-        <location filename="../src/resulttextview.cpp" line="17"/>
+        <location filename="../src/resulttextview.cpp" line="29"/>
         <source>Cut</source>
-        <translation>کٹ</translation>
+        <translation>کٹ کریں</translation>
     </message>
     <message>
-        <location filename="../src/resulttextview.cpp" line="20"/>
+        <location filename="../src/resulttextview.cpp" line="32"/>
         <source>Select All</source>
-        <translation>سیلکٹ ہر چیز</translation>
+        <translation>سیلکٹ ہر</translation>
     </message>
     <message>
-        <location filename="../src/resulttextview.cpp" line="22"/>
+        <location filename="../src/resulttextview.cpp" line="34"/>
         <source>Paste</source>
-        <translation>پیسٹ</translation>
+        <translation>پیسٹ کریں</translation>
     </message>
 </context>
 <context>
     <name>Widget</name>
     <message>
-        <location filename="../src/mainwidget.cpp" line="262"/>
+        <location filename="../src/mainwidget.cpp" line="309"/>
         <source>Tips: The clearer the image is, the more accurate the text is</source>
-        <translation>ٹیپس: تصویر کچھ واضح تر ہو گی، ٹیکسٹ کچھ زیادہ صحیح ہو گی</translation>
+        <translation>ٹیپس: تصویر واضح تر ہوتی ہے، ٹیکسٹ زیادہ صحیح ہوگی</translation>
     </message>
 </context>
 </TS>

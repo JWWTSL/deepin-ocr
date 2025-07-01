@@ -5,7 +5,7 @@
     <name>MainWidget</name>
     <message>
         <source>Recognizing</source>
-        <translation>Genkognisering</translation>
+        <translation>Genkender</translation>
     </message>
     <message>
         <source>Copied</source>
@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Simplified Chinese</source>
-        <translation>Forenklet kinesisk</translation>
+        <translation>Forsinket kinesisk</translation>
     </message>
     <message>
         <source>English</source>
@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>Traditional Chinese</source>
-        <translation>Traditionelt kinesisk</translation>
+        <translation>Traditionel kinesisk</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
@@ -52,7 +52,7 @@
     <name>QObject</name>
     <message>
         <source>OCR Tool</source>
-        <translation>OCR-Værktøj</translation>
+        <translation>OCR-værktøj</translation>
     </message>
 </context>
 <context>
@@ -78,7 +78,7 @@
     <name>Widget</name>
     <message>
         <source>Tips: The clearer the image is, the more accurate the text is</source>
-        <translation>Tip: Jo bedre billedet er, jo mere præcis er teksten</translation>
+        <translation>Tips: Jo klare billedet er, jo mere præcis er teksten</translation>
     </message>
 </context>
 </TS>

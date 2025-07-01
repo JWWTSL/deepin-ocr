@@ -4,98 +4,98 @@
 <context>
     <name>MainWidget</name>
     <message>
-        <location filename="../src/mainwidget.cpp" line="115"/>
+        <location filename="../src/mainwidget.cpp" line="118"/>
         <source>No text recognized</source>
-        <translation>Ez da testu bat ezagutzen</translation>
+        <translation>Nen textu konstatat</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="166"/>
+        <location filename="../src/mainwidget.cpp" line="169"/>
         <source>Recognize language</source>
-        <translation>Hizkuntza ezagutu</translation>
+        <translation>Konstatu lingua</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="169"/>
+        <location filename="../src/mainwidget.cpp" line="172"/>
         <source>Simplified Chinese</source>
-        <translation>Chinera errazatua</translation>
+        <translation>Chinaj simplifikat</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="169"/>
+        <location filename="../src/mainwidget.cpp" line="172"/>
         <source>English</source>
-        <translation>Ingelesa</translation>
+        <translation>Ingezania</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="169"/>
+        <location filename="../src/mainwidget.cpp" line="172"/>
         <source>Traditional Chinese</source>
-        <translation>Chinera tradizionala</translation>
+        <translation>Chinaj tradicional</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="204"/>
+        <location filename="../src/mainwidget.cpp" line="207"/>
         <source>Copy text</source>
-        <translation>Kopiatu testua</translation>
+        <translation>Kopiar texto</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="210"/>
+        <location filename="../src/mainwidget.cpp" line="213"/>
         <source>Save as TXT</source>
-        <translation>Gorde TXT moduan</translation>
+        <translation>Konservar kiel TXT</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="236"/>
+        <location filename="../src/mainwidget.cpp" line="239"/>
         <source>Undo (Ctrl+Z)</source>
-        <translation>Berritu (Ctrl+Z)</translation>
+        <translation>Reverti (Ctrl+Z)</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="247"/>
+        <location filename="../src/mainwidget.cpp" line="250"/>
         <source>Redo (Ctrl+Shift+Z)</source>
-        <translation>Berrabiarazi (Ctrl+Shift+Z)</translation>
+        <translation>Refar (Ctrl+Shift+Z)</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="294"/>
+        <location filename="../src/mainwidget.cpp" line="320"/>
         <source>Recognizing</source>
-        <translation>Ezagutzen</translation>
+        <translation>Konstanta</translation>
     </message>
     <message>
-        <location filename="../src/mainwidget.cpp" line="563"/>
+        <location filename="../src/mainwidget.cpp" line="589"/>
         <source>Copied</source>
-        <translation>Kopiatua</translation>
+        <translation>Kopiar</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../src/main.cpp" line="75"/>
+        <location filename="../src/main.cpp" line="43"/>
         <source>OCR Tool</source>
-        <translation>OCR tresna</translation>
+        <translation>Instrumento OCR</translation>
     </message>
 </context>
 <context>
     <name>ResultTextView</name>
     <message>
-        <location filename="../src/resulttextview.cpp" line="22"/>
-        <source>Copy</source>
-        <translation>Kopiatu</translation>
-    </message>
-    <message>
-        <location filename="../src/resulttextview.cpp" line="24"/>
-        <source>Cut</source>
-        <translation>Mugitu</translation>
-    </message>
-    <message>
         <location filename="../src/resulttextview.cpp" line="27"/>
-        <source>Select All</source>
-        <translation>Aukeratu dena</translation>
+        <source>Copy</source>
+        <translation>Kopiar</translation>
     </message>
     <message>
         <location filename="../src/resulttextview.cpp" line="29"/>
+        <source>Cut</source>
+        <translation>Forigi</translation>
+    </message>
+    <message>
+        <location filename="../src/resulttextview.cpp" line="32"/>
+        <source>Select All</source>
+        <translation>Elekti tutan</translation>
+    </message>
+    <message>
+        <location filename="../src/resulttextview.cpp" line="34"/>
         <source>Paste</source>
-        <translation>Itsatsi</translation>
+        <translation>Almeti</translation>
     </message>
 </context>
 <context>
     <name>Widget</name>
     <message>
-        <location filename="../src/mainwidget.cpp" line="283"/>
+        <location filename="../src/mainwidget.cpp" line="309"/>
         <source>Tips: The clearer the image is, the more accurate the text is</source>
-        <translation>Adierazpena: Bildetik osoa da, testua osoa da</translation>
+        <translation>Sugestio: La pli klara la bildo, la pli preciza la texto</translation>
     </message>
 </context>
 </TS>
